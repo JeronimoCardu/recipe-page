@@ -84,3 +84,8 @@ li::marker{
 .tableNutrition .td-info{
     padding-left: 30px;
 }
+@media screen and (max-width:670px){
+    .conteiner{
+        margin: 0px;
+    }
+}
